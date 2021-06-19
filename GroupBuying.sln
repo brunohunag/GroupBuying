@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30310.162
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBuying", "GroupBuying\GroupBuying.csproj", "{C004DC08-3FEA-4D18-A612-5A209970855F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C004DC08-3FEA-4D18-A612-5A209970855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C004DC08-3FEA-4D18-A612-5A209970855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C004DC08-3FEA-4D18-A612-5A209970855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C004DC08-3FEA-4D18-A612-5A209970855F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC94CA5-FF69-473D-AA91-3EFFCE827017}
+	EndGlobalSection
+EndGlobal
